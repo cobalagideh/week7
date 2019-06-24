@@ -1,0 +1,20 @@
+{
+    "name": "123movies-week7/the-bachelorette-season-15-episode-7-tv-streaming",
+    "description": "Watch The Bachelorette Season 15 Episode 7 Online for Free putlocker S15E07 WATCH FULL EPISODES HERE (CLICK LINK BELOW TO WATCHING)",
+	"keywords": ["The Bachelorette Season 15 Episode 7 Online"],
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "WATCH HERE : https://t.co/h69S9sgUyw",
+            "homepage": "https://t.co/h69S9sgUyw",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "movies123\\": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
